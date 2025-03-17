@@ -1,0 +1,47 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.cpp(110,63): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.cpp(110,48): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.cpp(116,63): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.cpp(116,48): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\ConsoleApplication1.cpp(27,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\ConsoleApplication1.cpp(33,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\poruszanie.cpp(52,50): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\poruszanie.cpp(65,49): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\poruszanie.cpp(74,36): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\poruszanie.cpp(87,34): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\poruszanie.cpp(97,34): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\poruszanie.cpp(112,36): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  LINK : nie znaleziono elementu C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe ani nie został on skompilowany podczas ostatniego konsolidowania przyrostowego; zostanie wykonana pełna konsolidacja
+  ConsoleApplication1.vcxproj -> C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

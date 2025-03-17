@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1189B5AA-F4F8-435E-BFF3-BEAB0A5832E8}|ConsoleApplication1.vcxproj|C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1189B5AA-F4F8-435E-BFF3-BEAB0A5832E8}|ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\kolizjaAnimacja.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:kolizjaAnimacja.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1189B5AA-F4F8-435E-BFF3-BEAB0A5832E8}|ConsoleApplication1.vcxproj|C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\punktacja.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1189B5AA-F4F8-435E-BFF3-BEAB0A5832E8}|ConsoleApplication1.vcxproj|solutionrelative:punktacja.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1189B5AA-F4F8-435E-BFF3-BEAB0A5832E8}|ConsoleApplication1.vcxproj|C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\ButtonStorage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1189B5AA-F4F8-435E-BFF3-BEAB0A5832E8}|ConsoleApplication1.vcxproj|solutionrelative:ButtonStorage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\poziom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:poziom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\poziom2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:poziom2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1189B5AA-F4F8-435E-BFF3-BEAB0A5832E8}|ConsoleApplication1.vcxproj|C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\TextureLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1189B5AA-F4F8-435E-BFF3-BEAB0A5832E8}|ConsoleApplication1.vcxproj|solutionrelative:TextureLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1189B5AA-F4F8-435E-BFF3-BEAB0A5832E8}|ConsoleApplication1.vcxproj|C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\Pies.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1189B5AA-F4F8-435E-BFF3-BEAB0A5832E8}|ConsoleApplication1.vcxproj|solutionrelative:Pies.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1189B5AA-F4F8-435E-BFF3-BEAB0A5832E8}|ConsoleApplication1.vcxproj|C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\Poruszanie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1189B5AA-F4F8-435E-BFF3-BEAB0A5832E8}|ConsoleApplication1.vcxproj|solutionrelative:Poruszanie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1189B5AA-F4F8-435E-BFF3-BEAB0A5832E8}|ConsoleApplication1.vcxproj|C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1189B5AA-F4F8-435E-BFF3-BEAB0A5832E8}|ConsoleApplication1.vcxproj|solutionrelative:Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "poziom.cpp",
+              "DocumentMoniker": "C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\poziom.cpp",
+              "RelativeDocumentMoniker": "poziom.cpp",
+              "ToolTip": "C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\poziom.cpp",
+              "RelativeToolTip": "poziom.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-27T08:01:33.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "poziom2.cpp",
+              "DocumentMoniker": "C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\poziom2.cpp",
+              "RelativeDocumentMoniker": "poziom2.cpp",
+              "ToolTip": "C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\poziom2.cpp",
+              "RelativeToolTip": "poziom2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-27T08:00:15.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "kolizjaAnimacja.h",
+              "DocumentMoniker": "C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\kolizjaAnimacja.h",
+              "RelativeDocumentMoniker": "kolizjaAnimacja.h",
+              "ToolTip": "C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\kolizjaAnimacja.h",
+              "RelativeToolTip": "kolizjaAnimacja.h",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-27T07:59:56.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pies.h",
+              "DocumentMoniker": "C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\Pies.h",
+              "RelativeDocumentMoniker": "Pies.h",
+              "ToolTip": "C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\Pies.h",
+              "RelativeToolTip": "Pies.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-19T11:52:25.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Menu.h",
+              "DocumentMoniker": "C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\Menu.h",
+              "RelativeDocumentMoniker": "Menu.h",
+              "ToolTip": "C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\Menu.h",
+              "RelativeToolTip": "Menu.h",
+              "ViewState": "AQIAAAoBAAAAAAAAAAAAAPMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-17T12:39:22.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Poruszanie.h",
+              "DocumentMoniker": "C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\Poruszanie.h",
+              "RelativeDocumentMoniker": "Poruszanie.h",
+              "ToolTip": "C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\Poruszanie.h",
+              "RelativeToolTip": "Poruszanie.h",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-20T10:14:16.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "punktacja.h",
+              "DocumentMoniker": "C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\punktacja.h",
+              "RelativeDocumentMoniker": "punktacja.h",
+              "ToolTip": "C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\punktacja.h",
+              "RelativeToolTip": "punktacja.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-06T07:29:03.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ButtonStorage.h",
+              "DocumentMoniker": "C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\ButtonStorage.h",
+              "RelativeDocumentMoniker": "ButtonStorage.h",
+              "ToolTip": "C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\ButtonStorage.h",
+              "RelativeToolTip": "ButtonStorage.h",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwBoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-06T07:27:29.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TextureLoader.h",
+              "DocumentMoniker": "C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\TextureLoader.h",
+              "RelativeDocumentMoniker": "TextureLoader.h",
+              "ToolTip": "C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\TextureLoader.h",
+              "RelativeToolTip": "TextureLoader.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-06T07:20:43.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication1.cpp",
+              "DocumentMoniker": "C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1.cpp",
+              "ToolTip": "C:\\Users\\mlody\\Desktop\\studia\\2d\\Nowy folder\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeToolTip": "ConsoleApplication1.cpp",
+              "ViewState": "AgIAAKABAAAAAAAAAAAAAJABAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-04-07T09:11:58.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

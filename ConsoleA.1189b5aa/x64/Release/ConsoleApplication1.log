@@ -1,0 +1,330 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(306,63): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(306,63): warning C4244:         with
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(306,63): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(306,63): warning C4244:             T=unsigned int
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(306,63): warning C4244:         ]
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(306,63): warning C4244:         and
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(306,63): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(306,63): warning C4244:             T=float
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(306,63): warning C4244:         ]
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(306,48): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(306,48): warning C4244:         with
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(306,48): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(306,48): warning C4244:             T=unsigned int
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(306,48): warning C4244:         ]
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(306,48): warning C4244:         and
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(306,48): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(306,48): warning C4244:             T=float
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(306,48): warning C4244:         ]
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(311,63): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(311,63): warning C4244:         with
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(311,63): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(311,63): warning C4244:             T=unsigned int
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(311,63): warning C4244:         ]
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(311,63): warning C4244:         and
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(311,63): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(311,63): warning C4244:             T=float
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(311,63): warning C4244:         ]
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(311,48): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(311,48): warning C4244:         with
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(311,48): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(311,48): warning C4244:             T=unsigned int
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(311,48): warning C4244:         ]
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(311,48): warning C4244:         and
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(311,48): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(311,48): warning C4244:             T=float
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(311,48): warning C4244:         ]
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(382,21): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(384,20): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(386,20): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(388,20): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(390,21): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(392,21): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(393,22): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(416,85): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(416,85): warning C4244:         with
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(416,85): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(416,85): warning C4244:             T=int
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(416,85): warning C4244:         ]
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(416,85): warning C4244:         and
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(416,85): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(416,85): warning C4244:             T=float
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(416,85): warning C4244:         ]
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(430,76): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(430,76): warning C4244:         with
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(430,76): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(430,76): warning C4244:             T=float
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\kolizjaAnimacja.h(430,76): warning C4244:         ]
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\punktacja.h(28,40): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\punktacja.h(35,42): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Poruszanie.h(31,20): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Poruszanie.h(40,24): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(43,69): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(43,69): warning C4244:         with
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(43,69): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(43,69): warning C4244:             T=int
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(43,69): warning C4244:         ]
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(43,69): warning C4244:         and
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(43,69): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(43,69): warning C4244:             T=float
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(43,69): warning C4244:         ]
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(43,52): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(43,52): warning C4244:         with
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(43,52): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(43,52): warning C4244:             T=int
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(43,52): warning C4244:         ]
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(43,52): warning C4244:         and
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(43,52): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(43,52): warning C4244:             T=float
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(43,52): warning C4244:         ]
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(51,70): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(51,70): warning C4244:         with
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(51,70): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(51,70): warning C4244:             T=int
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(51,70): warning C4244:         ]
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(51,70): warning C4244:         and
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(51,70): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(51,70): warning C4244:             T=float
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(51,70): warning C4244:         ]
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(51,53): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(51,53): warning C4244:         with
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(51,53): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(51,53): warning C4244:             T=int
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(51,53): warning C4244:         ]
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(51,53): warning C4244:         and
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(51,53): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(51,53): warning C4244:             T=float
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(51,53): warning C4244:         ]
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(59,70): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(59,70): warning C4244:         with
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(59,70): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(59,70): warning C4244:             T=int
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(59,70): warning C4244:         ]
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(59,70): warning C4244:         and
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(59,70): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(59,70): warning C4244:             T=float
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(59,70): warning C4244:         ]
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(59,53): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(59,53): warning C4244:         with
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(59,53): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(59,53): warning C4244:             T=int
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(59,53): warning C4244:         ]
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(59,53): warning C4244:         and
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(59,53): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(59,53): warning C4244:             T=float
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(59,53): warning C4244:         ]
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(140,69): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(140,69): warning C4244:         with
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(140,69): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(140,69): warning C4244:             T=int
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(140,69): warning C4244:         ]
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(140,69): warning C4244:         and
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(140,69): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(140,69): warning C4244:             T=float
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(140,69): warning C4244:         ]
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(140,52): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(140,52): warning C4244:         with
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(140,52): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(140,52): warning C4244:             T=int
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(140,52): warning C4244:         ]
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(140,52): warning C4244:         and
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(140,52): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(140,52): warning C4244:             T=float
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(140,52): warning C4244:         ]
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(145,70): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(145,70): warning C4244:         with
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(145,70): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(145,70): warning C4244:             T=int
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(145,70): warning C4244:         ]
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(145,70): warning C4244:         and
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(145,70): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(145,70): warning C4244:             T=float
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(145,70): warning C4244:         ]
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(145,53): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(145,53): warning C4244:         with
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(145,53): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(145,53): warning C4244:             T=int
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(145,53): warning C4244:         ]
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(145,53): warning C4244:         and
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(145,53): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(145,53): warning C4244:             T=float
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(145,53): warning C4244:         ]
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(153,70): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(153,70): warning C4244:         with
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(153,70): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(153,70): warning C4244:             T=int
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(153,70): warning C4244:         ]
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(153,70): warning C4244:         and
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(153,70): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(153,70): warning C4244:             T=float
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(153,70): warning C4244:         ]
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(153,53): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(153,53): warning C4244:         with
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(153,53): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(153,53): warning C4244:             T=int
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(153,53): warning C4244:         ]
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(153,53): warning C4244:         and
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(153,53): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(153,53): warning C4244:             T=float
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(153,53): warning C4244:         ]
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(242,69): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(242,69): warning C4244:         with
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(242,69): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(242,69): warning C4244:             T=int
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(242,69): warning C4244:         ]
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(242,69): warning C4244:         and
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(242,69): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(242,69): warning C4244:             T=float
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(242,69): warning C4244:         ]
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(242,52): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(242,52): warning C4244:         with
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(242,52): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(242,52): warning C4244:             T=int
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(242,52): warning C4244:         ]
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(242,52): warning C4244:         and
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(242,52): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(242,52): warning C4244:             T=float
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(242,52): warning C4244:         ]
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(250,70): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(250,70): warning C4244:         with
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(250,70): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(250,70): warning C4244:             T=int
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(250,70): warning C4244:         ]
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(250,70): warning C4244:         and
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(250,70): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(250,70): warning C4244:             T=float
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(250,70): warning C4244:         ]
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(250,53): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(250,53): warning C4244:         with
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(250,53): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(250,53): warning C4244:             T=int
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(250,53): warning C4244:         ]
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(250,53): warning C4244:         and
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(250,53): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(250,53): warning C4244:             T=float
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(250,53): warning C4244:         ]
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(259,70): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(259,70): warning C4244:         with
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(259,70): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(259,70): warning C4244:             T=int
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(259,70): warning C4244:         ]
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(259,70): warning C4244:         and
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(259,70): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(259,70): warning C4244:             T=float
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(259,70): warning C4244:         ]
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(259,53): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(259,53): warning C4244:         with
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(259,53): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(259,53): warning C4244:             T=int
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(259,53): warning C4244:         ]
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(259,53): warning C4244:         and
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(259,53): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(259,53): warning C4244:             T=float
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(259,53): warning C4244:         ]
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\Menu.h(353,26): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\ConsoleApplication1.cpp(76,25): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\ConsoleApplication1.cpp(86,25): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\ConsoleApplication1.cpp(128,24): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\ConsoleApplication1.cpp(134,14): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\poziom.cpp(14,17): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\poziom.cpp(179,77): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\poziom.cpp(179,77): warning C4244:         with
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\poziom.cpp(179,77): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\poziom.cpp(179,77): warning C4244:             T=float
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\poziom.cpp(179,77): warning C4244:         ]
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\ConsoleApplication1.cpp(201,26): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\ConsoleApplication1.cpp(268,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\poziom2.cpp(13,17): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\poziom2.cpp(266,76): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\poziom2.cpp(266,76): warning C4244:         with
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\poziom2.cpp(266,76): warning C4244:         [
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\poziom2.cpp(266,76): warning C4244:             T=float
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\poziom2.cpp(266,76): warning C4244:         ]
+  (kompilowanie pliku źródłowego „ConsoleApplication1.cpp”)
+  
+C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\ConsoleApplication1.cpp(353,26): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Trwa generowanie kodu
+  0 of 702 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  ConsoleApplication1.vcxproj -> C:\Users\mlody\Desktop\studia\2d\Nowy folder\ConsoleApplication1\x64\Release\ConsoleApplication1.exe
